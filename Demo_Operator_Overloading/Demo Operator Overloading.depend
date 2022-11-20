@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567871424 source:c:\programfiles(x86)\codeblocks\demo operator overloading\main.cpp
+	<iostream>
+	<complex.h>
+
